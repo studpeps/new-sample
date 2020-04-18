@@ -1,0 +1,49 @@
+.sidebar{
+    position: relative;
+    margin-top: 3.6rem;
+    float: left;
+    width: 15%;
+    height: 100%;
+    background-color:rgb(75, 72, 72);
+    color: whitesmoke;
+}
+.greta{
+   width: 80%;
+   padding-left: 20px;
+   border-radius: 50%;
+}
+#text{
+    font-size:1.5vw ;
+    text-align: center;
+    font-weight: bold;
+}
+.buttons{
+    color: white;
+    background-color: rgb(75, 72, 72);;
+    border: 0;
+    border-top: 0.4px solid whitesmoke;
+    width: 100%;
+    padding:15px 5px;
+    text-align: center;
+    font-size: 1vw;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.column{
+    background-color: darkblue;
+    margin-left:58px;
+    margin-top: 80px;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 15px;
+    padding: 10px 20px ;
+    width:18rem;
+}
+.column-c{
+    margin-left:70px;
+    margin-top: 20px;
+}
+
+.card{
+    width: 18rem;
+}
